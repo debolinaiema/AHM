@@ -1,0 +1,6 @@
+Feature,Centralized,Federated,Diff,MSE,MAE,RMSE,R2
+temperature_one,41.6768,41.6823,0.005480,0.000030,0.005480,0.005480,N/A (zero variance)
+temperature_two,41.6630,41.6602,0.002762,0.000008,0.002762,0.002762,N/A (zero variance)
+vibration_x,1.3527,1.3554,0.002638,0.000007,0.002638,0.002638,N/A (zero variance)
+vibration_y,-1.1779,-1.1803,0.002363,0.000006,0.002363,0.002363,N/A (zero variance)
+vibration_z,0.2337,0.2356,0.001890,0.000004,0.001890,0.001890,N/A (zero variance)

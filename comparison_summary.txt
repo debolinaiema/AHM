@@ -1,0 +1,14 @@
+COMPARISON SUMMARY
+============================================================
+Overlap: 1 row(s)
+Timestamp: 2025-11-14 06:30:01
+
+PREDICTIONS
+------------------------------------------------------------
+temperature_one Central: 41.6768  Fed: 41.6823  Diff: 0.005480
+temperature_two Central: 41.6630  Fed: 41.6602  Diff: 0.002762
+vibration_x     Central: 1.3527   Fed: 1.3554   Diff: 0.002638
+vibration_y     Central: -1.1779  Fed: -1.1803  Diff: 0.002363
+vibration_z     Central: 0.2337   Fed: 0.2356   Diff: 0.001890
+
+============================================================
